@@ -1,0 +1,46 @@
+C:\Users\egrok\source\repos\Dailer2\Dailer2\obj\Debug\net8.0-windows\Dailer2.csproj.AssemblyReference.cache
+C:\Users\egrok\source\repos\Dailer2\Dailer2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\egrok\source\repos\Dailer2\Dailer2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\egrok\source\repos\Dailer2\Dailer2\obj\Debug\net8.0-windows\Dailer2_MarkupCompile.cache
+C:\Users\egrok\source\repos\Dailer2\Dailer2\obj\Debug\net8.0-windows\Dailer2_MarkupCompile.lref
+C:\Users\egrok\source\repos\Dailer2\Dailer2\bin\Debug\net8.0-windows\Dailer2.exe
+C:\Users\egrok\source\repos\Dailer2\Dailer2\bin\Debug\net8.0-windows\Dailer2.deps.json
+C:\Users\egrok\source\repos\Dailer2\Dailer2\bin\Debug\net8.0-windows\Dailer2.runtimeconfig.json
+C:\Users\egrok\source\repos\Dailer2\Dailer2\bin\Debug\net8.0-windows\Dailer2.dll
+C:\Users\egrok\source\repos\Dailer2\Dailer2\bin\Debug\net8.0-windows\Dailer2.pdb
+C:\Users\egrok\source\repos\Dailer2\Dailer2\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\egrok\source\repos\Dailer2\Dailer2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\egrok\source\repos\Dailer2\Dailer2\obj\Debug\net8.0-windows\Dailer2.g.resources
+C:\Users\egrok\source\repos\Dailer2\Dailer2\obj\Debug\net8.0-windows\Dailer2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egrok\source\repos\Dailer2\Dailer2\obj\Debug\net8.0-windows\Dailer2.AssemblyInfoInputs.cache
+C:\Users\egrok\source\repos\Dailer2\Dailer2\obj\Debug\net8.0-windows\Dailer2.AssemblyInfo.cs
+C:\Users\egrok\source\repos\Dailer2\Dailer2\obj\Debug\net8.0-windows\Dailer2.csproj.CoreCompileInputs.cache
+C:\Users\egrok\source\repos\Dailer2\Dailer2\obj\Debug\net8.0-windows\Dailer2.csproj.CopyComplete
+C:\Users\egrok\source\repos\Dailer2\Dailer2\obj\Debug\net8.0-windows\Dailer2.dll
+C:\Users\egrok\source\repos\Dailer2\Dailer2\obj\Debug\net8.0-windows\refint\Dailer2.dll
+C:\Users\egrok\source\repos\Dailer2\Dailer2\obj\Debug\net8.0-windows\Dailer2.pdb
+C:\Users\egrok\source\repos\Dailer2\Dailer2\obj\Debug\net8.0-windows\Dailer2.genruntimeconfig.cache
+C:\Users\egrok\source\repos\Dailer2\Dailer2\obj\Debug\net8.0-windows\ref\Dailer2.dll
+C:\Users\0702\OneDrive\Рабочий стол\Dailer2\Dailer2\bin\Debug\net8.0-windows\Dailer2.exe
+C:\Users\0702\OneDrive\Рабочий стол\Dailer2\Dailer2\bin\Debug\net8.0-windows\Dailer2.deps.json
+C:\Users\0702\OneDrive\Рабочий стол\Dailer2\Dailer2\bin\Debug\net8.0-windows\Dailer2.runtimeconfig.json
+C:\Users\0702\OneDrive\Рабочий стол\Dailer2\Dailer2\bin\Debug\net8.0-windows\Dailer2.dll
+C:\Users\0702\OneDrive\Рабочий стол\Dailer2\Dailer2\bin\Debug\net8.0-windows\Dailer2.pdb
+C:\Users\0702\OneDrive\Рабочий стол\Dailer2\Dailer2\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\0702\OneDrive\Рабочий стол\Dailer2\Dailer2\obj\Debug\net8.0-windows\Dailer2.csproj.AssemblyReference.cache
+C:\Users\0702\OneDrive\Рабочий стол\Dailer2\Dailer2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\0702\OneDrive\Рабочий стол\Dailer2\Dailer2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\0702\OneDrive\Рабочий стол\Dailer2\Dailer2\obj\Debug\net8.0-windows\Dailer2_MarkupCompile.cache
+C:\Users\0702\OneDrive\Рабочий стол\Dailer2\Dailer2\obj\Debug\net8.0-windows\Dailer2_MarkupCompile.lref
+C:\Users\0702\OneDrive\Рабочий стол\Dailer2\Dailer2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\0702\OneDrive\Рабочий стол\Dailer2\Dailer2\obj\Debug\net8.0-windows\Dailer2.g.resources
+C:\Users\0702\OneDrive\Рабочий стол\Dailer2\Dailer2\obj\Debug\net8.0-windows\Dailer2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0702\OneDrive\Рабочий стол\Dailer2\Dailer2\obj\Debug\net8.0-windows\Dailer2.AssemblyInfoInputs.cache
+C:\Users\0702\OneDrive\Рабочий стол\Dailer2\Dailer2\obj\Debug\net8.0-windows\Dailer2.AssemblyInfo.cs
+C:\Users\0702\OneDrive\Рабочий стол\Dailer2\Dailer2\obj\Debug\net8.0-windows\Dailer2.csproj.CoreCompileInputs.cache
+C:\Users\0702\OneDrive\Рабочий стол\Dailer2\Dailer2\obj\Debug\net8.0-windows\Dailer2.csproj.CopyComplete
+C:\Users\0702\OneDrive\Рабочий стол\Dailer2\Dailer2\obj\Debug\net8.0-windows\Dailer2.dll
+C:\Users\0702\OneDrive\Рабочий стол\Dailer2\Dailer2\obj\Debug\net8.0-windows\refint\Dailer2.dll
+C:\Users\0702\OneDrive\Рабочий стол\Dailer2\Dailer2\obj\Debug\net8.0-windows\Dailer2.pdb
+C:\Users\0702\OneDrive\Рабочий стол\Dailer2\Dailer2\obj\Debug\net8.0-windows\Dailer2.genruntimeconfig.cache
+C:\Users\0702\OneDrive\Рабочий стол\Dailer2\Dailer2\obj\Debug\net8.0-windows\ref\Dailer2.dll

@@ -1,0 +1,43 @@
+﻿<Window x:Class="Dailer2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Dailer2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="3*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="2" Grid.Column="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Button x:Name="Creater" Content="Создать запись" Click="Creater_Click"/>
+            <Button x:Name="Saver" Grid.Column="1" Content="Сохранить" Click="Saver_Click"/>
+        </Grid>
+        <Grid Grid.Row="1" Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <TextBlock x:Name="Napom" HorizontalAlignment="Center" TextWrapping="Wrap" Text="Напоминание" VerticalAlignment="Center" Height="23" Width="380" TextAlignment="Center"/>
+            <TextBlock x:Name="Description" Grid.Row="2" TextWrapping="Wrap" Text="Описание" RenderTransformOrigin="1.018,0.684" Height="16" VerticalAlignment="Center" HorizontalAlignment="Center" Width="400" TextAlignment="Center"/>
+            <TextBox x:Name="NameTip" HorizontalAlignment="Center" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Center" Width="120" TextChanged="NameTip_TextChanged"/>
+            <TextBox x:Name="DescTip" HorizontalAlignment="Center" Grid.Row="3" TextWrapping="Wrap" VerticalAlignment="Center" Width="120" TextChanged="DescTip_TextChanged"/>
+        </Grid>
+        <DatePicker x:Name="Calendar" VerticalAlignment="Center" Grid.Column="0" Grid.ColumnSpan="2" Margin="41,0,41,0" SelectedDateChanged="Calendar_SelectedDateChanged"/>
+        <ListBox x:Name="Tipsi" Grid.Row="1" Cursor="Arrow" DisplayMemberPath="name" SelectionChanged="Tipsi_SelectionChanged"/>
+        <Button x:Name="Deleter" Content="Удалить запись" Grid.Row="2"  Click="Deleter_Click"/>
+    </Grid>
+</Window>
